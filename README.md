@@ -34,7 +34,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
-Semantic HTML is the way to format the HTML code so that anyone who reads it can understand what it's trying to tell you. If there's thre paragraphs there's a <p> to show where each one starts and a </p> to show where each one ends. It's meant to make the code neater.
+Semantic HTML is the way to format the HTML code so that anyone who reads it can understand what it's trying to tell you. If there's three paragraphs there's a way to show where each one starts and a way to show where each one ends. It's meant to make the code neater.
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
