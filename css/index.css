@@ -282,12 +282,70 @@ nav a {
 }
 button{
 	background: white;
-	padding: 5px 10px;
+	padding: 5px 15px;
 	font-size: 15px;
 	border: 2px solid black;
 	border-radius: 5px;
 	cursor: pointer;
 }
+button:hover{
+    background: black;
+    color:white;
+}
 .last-content{
     padding: 30px;
+}
+.box1:hover{
+    animation-name: spin;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+.box2:hover{
+    animation-name: spin;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+.box3:hover{
+    animation-name: spin;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+.box4:hover{
+    animation-name: spin;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+.box5:hover{
+    animation-name: spin;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+.box6:hover{
+    animation-name: spin;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+.box7:hover{
+    animation-name: spin;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+.box8:hover{
+    animation-name: spin;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+.box9:hover{
+    animation-name: spin;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+.box10:hover{
+    animation-name: spin;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+@keyframes spin{
+    100%{background-color: white; transform: rotate(360deg);}
+
 }
